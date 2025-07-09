@@ -1,1 +1,6 @@
 # Myfirstrepo
+# Brief Introduction About Myself
+
+My name is Yosef Temesgan. I am passionate about technology and currently learning how to use GitHub to manage projects and collaborate with others.
+
+I’m excited to explore coding, version control, and open source contributions as I grow my skills in software development.
