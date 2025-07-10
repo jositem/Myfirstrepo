@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my coding skills and learn advanced Git usage
+- Contribute to at least one open-source project
+- Build and deploy a personal website
+- Complete all my ALX or Bright College assignments on time
+- Start learning mobile app development
