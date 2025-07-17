@@ -1,5 +1,5 @@
 # Brief Introduction About Myself
 
-My name is Yosef Temesgan. I am passionate about technology and currently learning how to use GitHub to manage projects and collaborate with others.
+My name is Yosef Temesgan. I am passionate about software development and technology. I enjoy learning new programming languages and contributing to creative projects.
 
-I’m excited to explore coding, version control, and open source contributions as I grow my skills in software development.
+This is my first GitHub repository, and I’m excited to start my journey in version control and collaboration.
