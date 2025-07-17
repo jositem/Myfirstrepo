@@ -1,1 +1,1 @@
-So far in this course, I have learned how to clone repositories, create and edit files, and push changes to GitHub using Git commands.
+In this course, I have learned how to use Git and GitHub for version control. I now understand how to clone repositories, create and edit files locally, make commits, and push changes to a remote repository. This has helped me learn how developers collaborate on code and track progress in real-world projects.
