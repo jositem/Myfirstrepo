@@ -1,3 +1,4 @@
 git add learning.txt
 git commit -m "Updated learning.txt with complete course reflection"
 git push origin main
+Throughout this course, I have learned how to use Git and GitHub to manage code, collaborate with others, and track changes using version control. I now understand how to clone repositories, make local changes, commit them, and push updates to remote repositories. These skills are essential for real-world software development, and I'm excited to keep improving.
