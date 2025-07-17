@@ -1,3 +1,1 @@
-nano learning.txt
-# OR
-echo "I have learned how to use Git and GitHub..." > learning.txt
+I have learned how to use Git and GitHub for version control. It has been exciting to fork repositories, commit changes, and collaborate using pull requests. I'm now more confident in managing code in a professional workflow.
