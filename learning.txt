@@ -1,1 +1,3 @@
-I’ve learned how to use GitHub to manage my code, collaborate with others, and track changes in projects using version control.
+nano learning.txt
+# OR
+echo "I have learned how to use Git and GitHub..." > learning.txt
