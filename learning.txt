@@ -1,1 +1,2 @@
-In this course, I have learned how to use Git and GitHub for version control. I now understand how to clone repositories, create and edit files locally, make commits, and push changes to a remote repository. This has helped me learn how developers collaborate on code and track progress in real-world projects.
+git add learning.txt
+ git commit -m "Added learning.txt with course reflection"
